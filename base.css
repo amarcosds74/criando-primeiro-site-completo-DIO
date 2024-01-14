@@ -9,7 +9,7 @@ body {
 }
 
 .wrapper {
-    background-image:url("img/icono-aislado-atencion-medica.jpeg");
+    background-image:url("icono-aislado-atencion-medica.jpeg");
     width: 1200px;
     display: flex;
     margin: 0 auto;
@@ -48,13 +48,13 @@ body {
 .header {
     
     background-color: rgb(5, 108, 108);
-    background-image:url("img/saúde-publica.jpg ");
+    background-image:url("saúde-publica.jpg ");
     min-height: 150px;   
 }
 .header2 {
     
     background-color: rgb(5, 108, 108);
-    background-image:url("img/saúde-publica.jpg ");
+    background-image:url("saúde-publica.jpg ");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -62,7 +62,7 @@ body {
 }
 .content {
     background-color: rgb(221, 126, 126);
-    background-image:url("img/frente-usafa-jardim-brasil.jpg"); 
+    background-image:url("frente-usafa-jardim-brasil.jpg"); 
     min-height: 300px;
     padding: 20px;}
     
@@ -70,18 +70,18 @@ body {
 
 .content1 {
     background-color: rgb(221, 126, 126);
-    background-image:url("img/símbolos-medicina.jpg"); 
+    background-image:url("símbolos-medicina.jpg"); 
     min-height: 300px;
     padding: 20px;}
 
     .content2 {
         background-color: rgb(221, 126, 126);
-        background-image:url("img/símbolos-medicina.jpg"); 
+        background-image:url("símbolos-medicina.jpg"); 
         min-height: 300px;
         padding: 20px;}
 
 .footer {
-    background-image:url("img/saúde-publica.jpg ");
+    background-image:url("saúde-publica.jpg ");
     background-color: rgb(99, 56, 240);
     min-height: 150px;
 }
